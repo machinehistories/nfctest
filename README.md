@@ -1,1 +1,3 @@
 # nfctest
+
+type message 
